@@ -1,0 +1,22 @@
+{
+  "name": "gbcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "diff-match-patch": "^1.0.5",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.3",
+    "md5": "^2.3.0",
+    "node-fetch": "^2.6.6",
+    "socket.io": "^4.1.3",
+    "socket.io-client": "^4.3.1",
+    "yargs": "^17.5.1"
+  }
+}
